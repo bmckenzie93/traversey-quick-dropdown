@@ -6,3 +6,4 @@ I am going to start the project now, I watched the video through once and I have
 
 @ 10:30am
 I got most of it done without having to refer back to the video but I got stuck when trying to get the nested ul to display on hover properly. I needed to add left: 0, margin-top, and a width to it. 
+//clocked out.
